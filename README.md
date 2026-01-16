@@ -65,4 +65,6 @@ This project predicts a **continuous Health_Risk_Score** using environmental and
 - Expand target outcomes (hospitalization/respiratory events)
 - Deploy as an early-warning risk system for public health agencies
 
+## 📄 Project Report
+➡️ [View the full report (PDF)](docs/DSCI5240_FinalProject.pdf)
 
