@@ -1,7 +1,7 @@
 # 📊 Dataset Information
 
 The **Urban Air Quality and Health Impact Analysis** dataset used for this project originates from Kaggle.  
-It provides extensive urban environmental data related to air quality, weather conditions, and health risk indicators. :contentReference[oaicite:5]{index=5}
+It provides extensive urban environmental data related to air quality, weather conditions, and health risk indicators.
 
 🔗 **Kaggle dataset:** https://www.kaggle.com/datasets/abdullah0a/urban-air-quality-and-health-impact-dataset/data :contentReference[oaicite:6]{index=6}
 
